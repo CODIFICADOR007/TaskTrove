@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaskTrove/static/css/main.c10b4d73.css",
+    "main.js": "/TaskTrove/static/js/main.427a694c.js",
+    "static/js/787.63e47474.chunk.js": "/TaskTrove/static/js/787.63e47474.chunk.js",
+    "index.html": "/TaskTrove/index.html",
+    "main.c10b4d73.css.map": "/TaskTrove/static/css/main.c10b4d73.css.map",
+    "main.427a694c.js.map": "/TaskTrove/static/js/main.427a694c.js.map",
+    "787.63e47474.chunk.js.map": "/TaskTrove/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c10b4d73.css",
+    "static/js/main.427a694c.js"
+  ]
+}
